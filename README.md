@@ -11,7 +11,7 @@
 ### Languages and Tools:
 
 <a href="https://github.com/JosefSo/Ex4_Pokemons.git" title="Python Project"><img alt="Python Project" src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/>
-<a href="https://github.com/SaliSharfman/Ex2_DirectedWeightedGraph.git" title="Java Project"><img alt="Java Project" src="https://img.shields.io/badge/java-%23ED8B00.svg?&style=for-the-badge&logo=java&logoColor=white"/></br>
+<a href="https://github.com/SaliSharfman/Ex2_DirectedWeightedGraph.git" title="Java Project"><img alt="Java Project" src="https://img.shields.io/badge/java-%23ED8B00.svg?&style=for-the-badge&logo=java&logoColor=white"/></a></br>
 <img alt="C++" src="https://img.shields.io/badge/c++%20-%2300599C.svg?&style=for-the-badge&logo=c%2B%2B&ogoColor=white"/> <img alt="MySQL" src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white"/> <img alt="MongoDB"
 src ="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white"/>
 <img alt="Git" src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/> 
