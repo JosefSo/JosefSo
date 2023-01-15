@@ -1,4 +1,4 @@
-<h1 align="center">Hi there 👋, I'm Josef</h1>
+<h1 align="center">Hi there 👋, I'm Yosef</h1>
 
 🎓 I’m a B.Sc. student at the Department of Computer Science and Mathematics in Ariel University.
 
