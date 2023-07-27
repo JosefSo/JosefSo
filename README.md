@@ -1,6 +1,6 @@
 <h1 align="center">Hi there 👋, I'm Yosef</h1>
 
-🎓 I’m a B.Sc. student at the Department of Computer Science and Mathematics in Ariel University.
+🎓 Aspiring Software Developer - Newly Graduated with BSc in Computer Science and Mathematics.
 
 📌 Scroll down to see my Pinned Repositories.
 
